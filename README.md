@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Vinay Battula</h1>
 <h3 align="center">Full Stack Developer | Java Enthusiast | DevOps Learner</h3>
 
@@ -93,4 +93,4 @@ Automated build and deployment pipeline project.
 ---
 
 ### ⭐ "Code • Learn • Build • Repeat"
-```
+
